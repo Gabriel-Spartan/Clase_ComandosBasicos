@@ -1,0 +1,8 @@
+info.html
+*.exe
+*.log
+<<<<<<< HEAD
+/node_modules
+=======
+/node_module
+>>>>>>> 26adf94561afb3b311a8e39608b15cc8acb66be1
